@@ -17,3 +17,18 @@ h1 {
 h2 {
     text-decoration: underline;
 }
+
+h3 {
+    color: brown;
+}
+
+img {
+    margin: 5px;
+}
+
+.inline {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: auto;
+}
